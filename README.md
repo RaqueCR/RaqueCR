@@ -24,12 +24,6 @@ As a woman in tech, I aim to break barriers and inspire others in **STEM fields*
 
 ---
 
-## 💬 Let’s Connect!  
-- 📧 **Email**: raquefdez14@gmail.com  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/raquel-fdez  
-
----
-
 **"The future belongs to those who believe in the beauty of their dreams."** – Eleanor Roosevelt  
 
 ---
