@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🌟 Hi! I'm **Raquel**! 👩‍💻
 
-<!--
-**RaqueCR/RaqueCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **first-year Computer Engineering student** from Costa Rica, blending my passion for tech with a background in **Early Childhood Education**. 🎓  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning  
+- 🖥️ **C++**  
+- 🌐 **HTML, CSS, JavaScript**  
+
+---
+
+## ✨ Women in STEM  
+As a woman in tech, I aim to break barriers and inspire others in **STEM fields**. Diversity drives innovation! 💪👩‍🔬  
+
+> **“Empowered women empower the world.”**  
+
+---
+
+## 🎯 My Goals  
+- 🌟 Become a skilled software developer.  
+- 💡 Contribute to impactful projects.  
+- 🌍 Inspire women in tech, especially in Costa Rica 🇨🇷.  
+
+---
+
+## 💬 Let’s Connect!  
+- 📧 **Email**: raquefdez14@gmail.com  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/raquel-fdez  
+
+---
+
+**"The future belongs to those who believe in the beauty of their dreams."** – Eleanor Roosevelt  
+
+---
