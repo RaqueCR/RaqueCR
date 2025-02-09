@@ -1,8 +1,14 @@
-# 🌟 Hi! I'm **Raquel**! 👩‍💻
+<div align="center">
 
-A **first-year Computer Engineering student** from Costa Rica, blending my passion for tech with a background in **Early Childhood Education**. 🎓  
+# 🌟 Hi! I'm **Raquel**! 👩‍💻  
+
+<img src="https://i.gifer.com/Sk6w.gif" alt="Welcome GIF" width="300">
+
+<small>A **first-year Computer Engineering student** from Costa Rica, merging **tech passion** with a background in **Early Childhood Education**. 🎓</small>
 
 ---
+
+</div>
 
 ## 🚀 Currently Learning  
 - 🖥️ **C++**  
